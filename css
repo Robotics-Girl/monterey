@@ -1,0 +1,19 @@
+body {
+  background-color: lightskyblue;
+}
+h1 {
+  text-align: center;
+  font: 50 px;
+}
+p {
+  text-align: center;
+  font: 25px;
+}
+.image1{
+  width:50%;
+}
+.image2{
+  width: 250px;
+  text-align: justify;
+  margin: 30px auto;
+}
